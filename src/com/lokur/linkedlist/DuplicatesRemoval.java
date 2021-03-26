@@ -1,4 +1,4 @@
-package com.lokur.com.lokur.linkedlist;
+package com.lokur.linkedlist;
 
 public class DuplicatesRemoval {
 
