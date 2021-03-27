@@ -1,4 +1,4 @@
-package com.lokur;
+package com.lokur.fibonacci;
 
 public class PrintFibonacciSeries {
 
